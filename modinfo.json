@@ -1,0 +1,22 @@
+{
+  "Title": "EX Rumia",
+  "Description": "(EN/繁/简/日/ES/KO)\nAdds EX Rumia to the game.\n将EX露米娅加入游戏。",
+  "Brief": "(EN/繁/简/日/ES/KO)\nAdds EX Rumia to the game.\n将EX露米娅加入游戏。",
+  "Changelog": [
+    "v1.0.5:\nv1.8.0 support.\nView the full changelog in CHANGELOG.md."
+  ],
+  "Version": "1.0.5",
+  "Author": "Lvalon",
+  "Tags": [
+    "Character",
+    "Content"
+  ],
+  "PublishedFileId": 3579813841,
+  "AuthorId": 76561199402689541,
+  "GUID": "llbol.char.exrumia",
+  "Dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "neo.lbol.frameworks.entitySideloader"
+  ],
+  "LastUpdateTime": 1759531469
+}

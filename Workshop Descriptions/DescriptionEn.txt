@@ -1,0 +1,31 @@
+(EN/繁/簡/日/ES/KO)
+EX Rumia character mod.
+
+[h1]Includes[/h1]
+[list]
+[*]Character Cards: 76
+[*]Character Exhibits: 2+1
+[*]Neutral Exhibits: 1
+[*]Act 1 Boss
+[/list]
+
+[h1]Config File[/h1]
+[list]
+[*]Act 1 Boss.
+[/list]
+
+[h1]Btw[/h1]
+[strike]Had this idea in 27/5/2025, spent 8 days to speedrun this out, so I'll be working on the cosmetics and balancing stuff soon.[/strike]
+In 11/7/2025, we've entered LTS with lightning speed, I might write some other mods for fun.
+
+[h1]Also[/h1]
+Bug reports, suggestions are appreciated. For feedback, post your suggestions in the modding channel in the Lbol discord.
+
+[h1]Special Thanks[/h1]
+[list]
+[*]Cyaneko, Intoxicated Kid and everyone in the Discord official server's #mod-dev channel for helping out with all the coding problems.
+[*](formerly Touhou) Flower Fight's (pre-errata) EX Rumia for inspiration and reference.
+[*]Japanese support, provided by neff.
+[*]Spanish support, provided by asutnima.
+[*]Korean support, provided by raspberry Caffeine Monster.
+[/list]

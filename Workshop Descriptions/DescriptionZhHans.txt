@@ -1,0 +1,31 @@
+(EN/繁/簡/日/ES/KO)
+EX 露米娅角色模组。
+
+[h1]内含[/h1]
+[list]
+[*]角色卡牌：76
+[*]角色展品：2+1
+[*]中立展品：1
+[*]一面 Boss
+[/list]
+
+[h1]设定文件[/h1]
+[list]
+[*]一面 Boss。
+[/list]
+
+[h1]但又话说回来[/h1]
+[strike]在 27/5/2025 时有了这个点子，花了八天给冲出来了，之后再装饰和平衡。[/strike]
+在 11/7/2025 光速进入长期支援模式了，可能再写点其他 mod 玩玩。
+
+[h1]还有[/h1]
+有 bug，提议可以在 QQ 官方群联系 `@L大`，或在 Discord 官方群的#mod-discuss 里 @Lvalon 。
+
+[h1]特别鸣谢[/h1]
+[list]
+[*]Cyaneko, Intoxicated Kid 和 Discord 官方群里 #mod-dev 的各位解答诸多代码问题。
+[*]（前身为东方）花战的（旧版）EX 露米娅作为灵感和参考。
+[*]日文支援，由 neff 提供。
+[*]西班牙语支援，由 asutnima 提供。
+[*]韩文支援，由 raspberry Caffeine Monster 提供。
+[/list]
