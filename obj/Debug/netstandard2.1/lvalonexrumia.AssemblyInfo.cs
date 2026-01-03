@@ -19,7 +19,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lvalonexrumia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2e71a082ee5ec4dfec80e9e876ac06cb36b45d0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05a83c3d32d8dc0871f97083302015cc30590d23")]
 [assembly: System.Reflection.AssemblyProductAttribute("lvalonexrumia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lvalonexrumia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
