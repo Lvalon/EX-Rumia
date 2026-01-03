@@ -3,9 +3,9 @@
   "Description": "(EN/繁/简/日/ES/KO)\nAdds EX Rumia to the game.\n将EX露米娅加入游戏。",
   "Brief": "(EN/繁/简/日/ES/KO)\nAdds EX Rumia to the game.\n将EX露米娅加入游戏。",
   "Changelog": [
-    "v1.0.5:\nv1.8.0 support.\nView the full changelog in CHANGELOG.md."
+    "v1.0.6:\nBalance changes, run history's character icon going over the frame.\nView the full changelog in CHANGELOG.md."
   ],
-  "Version": "1.0.5",
+  "Version": "1.0.6",
   "Author": "Lvalon",
   "Tags": [
     "Character",
